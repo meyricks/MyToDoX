@@ -1,4 +1,4 @@
-# MyToDoX
+# MyToDoX 😎
 Aquí está mi proyecto basado en una To-Do List utilizando algunas interesantes herramientas. Entre ellas, primordialmente C#, SQL y Microsoft Azure para tener la base de datos en una nube. 
 Como parte de la asignación de proyecto final, este To-Do List cuenta con una integración a base de datos persistente y la documentación pertinente para llevarlo a cabo.
 --
