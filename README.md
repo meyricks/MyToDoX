@@ -36,6 +36,7 @@ Posteriormente accederá a ese usuario, y verá todas las opciones que le permit
 ![03-P](https://user-images.githubusercontent.com/95958883/187110381-3860950d-73b6-4765-be95-d5e85509c1c8.jpeg)
 ![04-P](https://user-images.githubusercontent.com/95958883/187110389-ac53bee9-a8be-4d94-a58d-240fe7b871c3.jpeg)
 ![05-P](https://user-images.githubusercontent.com/95958883/187110395-3d0893c0-783d-4091-885f-01766ed77672.jpeg)
+![06-P](https://user-images.githubusercontent.com/95958883/187110401-631d6758-1afe-40ab-ad46-93e39a4d48ce.jpeg)
 ![07-´P](https://user-images.githubusercontent.com/95958883/187110519-ede88deb-ff6e-4213-a4ad-825a4ec27cd0.jpeg)
 
 
