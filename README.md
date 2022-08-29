@@ -32,7 +32,7 @@ Para ir ejecutando las pruebas, puedes verificar si la redirección de la base d
 Posteriormente accederá a ese usuario, y verá todas las opciones que le permite el ToDoList, tiene una estructura de CRUD así que va a poder añadir, eliminar y editar la información que desee. Todo esto teniendo en cuenta que se guardará únicamente en la sección del usuario al que accedió. En caso de accerder con otro usuario, tendrá un espacio para guardar informaciones diferentes :D.
 
 ![01-P](https://user-images.githubusercontent.com/95958883/187110351-b6dbd7b6-8e0f-46c6-9e50-db514ba0c30f.jpeg)
-
+![03-P](https://user-images.githubusercontent.com/95958883/187110381-3860950d-73b6-4765-be95-d5e85509c1c8.jpeg)
 ![04-P](https://user-images.githubusercontent.com/95958883/187110389-ac53bee9-a8be-4d94-a58d-240fe7b871c3.jpeg)
 
 ---
